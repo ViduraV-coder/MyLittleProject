@@ -8,7 +8,7 @@
 
 // Set network credentials
 const char* ssid = "Ye Olde Internet";
-const char* password = "Y#O#I#69";
+const char* password = "";
 
 // Set relay pins
 #define DIMMER_PWM_PIN 16
